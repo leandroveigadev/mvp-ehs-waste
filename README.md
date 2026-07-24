@@ -23,3 +23,4 @@ O controle manual de Manifestos de Transporte de Resíduos (MTRs) frequentemente
    bash
    git clone https://github.com/leandroveigadev/mvp-ehs-waste.git
    cd mvp-ehs-waste
+   [![Contato para parcerias e estudos](https://img.shields.io/badge/Acesse_Meu_Site-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://https://www.leandroveiga.com.br/)
